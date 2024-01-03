@@ -1,0 +1,7 @@
+/fruits
+/*.zip
+*/.DS_Store
+P8_Mode_opératoire/img
+.part-*
+P8_Mode_opératoire/data
+/venv
